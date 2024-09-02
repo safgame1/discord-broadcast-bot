@@ -1,5 +1,5 @@
 {
-    "allowedRoleId": "ايدي_الرتبة",
-    "TOKEN": "توكن_البوت",
-    "image": "رابط الصورة"
+    "allowedRoleId": "https://discord.com/oauth2/authorize?client_id=1280161567010197654&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.com%2Foauth2%2Fauthorize%3Fclient_id%3D1280161567010197654&integration_type=0&scope=bot",
+    "TOKEN": "MTI4MDE2MTU2NzAxMDE5NzY1NA.GRPDl0.vykevHdRG3qgZh-9sX_2LfpZ-3gLL4BIuSjkKk",
+    "image": "https://discord.com/developers/applications/1280161567010197654/bot"
 }
